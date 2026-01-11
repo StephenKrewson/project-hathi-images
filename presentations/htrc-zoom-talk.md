@@ -54,7 +54,7 @@ Left: *Robinson Crusoe, with new engravings on wood* (late-1830s?)
 - Alexander Anderson (1775-1870, American physician and engraver, active in New York) 
 - Ship episode from *Farther adventures of Robinson Crusoe* (Daniel Defoe, 1719). Crusoe goes back to island with Friday and his nephew. Works to set up a kind of colonial order: https://en.wikipedia.org/wiki/The_Farther_Adventures_of_Robinson_Crusoe
 - Literally hundreds of Crusoe adaptations and editions in century after its publication
-- Thomas and John Bewick (brothers) very influential on wood engraving (worked on edition of Crusoe in 1789) See: https://www.americanantiquarian.org/proceedings/44517733.pdf (just starting to sort all this out! David Blewett has good book)
+- Thomas and John Bewick, the very influential British wood engravers, worked on an edition of Crusoe in 1789. See David Blewett (1995).
 
 Right: *Paul Preston's Adventures* (1847)
 
