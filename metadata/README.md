@@ -9,7 +9,7 @@ Comment: it's useful to have all files in a flat directory, for looking through 
 
 Also: should really use my Crusoe material from the HT talk. Does Parley say much about Crusoe? Would be a nice connection. Is Crusoe ever disabled?
 
-Parley's Magazine has article on "Robinson Crusoe School" and de Fellenberg's methods. "Heart, head, and mind." Links to Holbrook's manual labor school.  
+Parley's Magazine has article on "Robinson Crusoe School" and de Fellenberg's methods. "Heart, head, and mind." Links to Holbrook's manual labor school.
 
 From bootcamp notes: Do Ted Underwood's literary time piece but for printed book illustrations. Is plates --> vignettes the same as decades --> minutes?
 
@@ -24,11 +24,13 @@ See Parley's Magazine 4 (1836) for how the educationists conceived of [the appar
 https://scholar.harvard.edu/csiszar/home (on 19C science publishing; friend of Bill Rankin)
 
 
-## Munroe-Francis
+## Munroe and Francis
 
 Superb image of child as wood engraver, making Munroe and Francis sign:
 
 njp.32101063579484_00000273_00.jpg
+
+<!-- Captain Barton -->
 
 Image of soldier on crutches! Stored locally in \_datasets/pixplot_munroe-francis/images:
 
@@ -36,9 +38,7 @@ nyp.33433066604343_00000250_00.jpg -- "First scene at Captain Barton's"
 
 https://babel.hathitrust.org/cgi/pt?id=nyp.33433066604343&view=1up&seq=246
 
-Volume: The Child's Friend (translated from Berquin; engraved by Alexander Anderson)
-
-For a great essay on Berqin and this book: http://hockliffe.dmu.ac.uk/items/0069.html
+Volume: [The Child's Friend](http://hockliffe.dmu.ac.uk/items/0069.html) (translated from Berquin; engraved by Alexander Anderson)
 
 Captain Barton dialogues with his subordinate sergeant Pipes, who lost a leg after it was hit by a musket ball.
 

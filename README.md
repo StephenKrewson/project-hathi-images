@@ -15,9 +15,7 @@ Once the dissertation is submitted, I would like to update the Zenodo:
 - Include Jupyter notebooks for working with PixPlot
 - Standardize the image names
 
-However, this is a low priority. The update really only makes sense if I'm able to move to a PixPlot-based workflow where the data can be shared. This is a legal question and one I can take up once I have my PhD.
-
-The important task for now is to write an engaging synthesis in the diss. of how these methods can motivate new research questions from the educational/ephemeral print archive.
+However, this is a low priority. The update really only makes sense if I'm able to move to a PixPlot-based workflow where the data can be shared.
 
 
 ## Local and VM environments
@@ -223,9 +221,7 @@ A key principle is to keep lots of data in the buckets, where it's cheaper to st
 - Conclusion: make boot disk the 2TB maximum. Mounting and resizing extra disks requires LOTS of extra knowledge of df and lsblk and growpart. Something to study up on, though.
 - Other breakthrough: run tmux ON the remote server!! Then detach and exit. Job will hum merrily along. Otherwise, as soon as my laptop goes to sleep, the SSH connection is broken and it's all over. And it was too weird to run tmux within tmux. Just like the Zoo c. 2017!
 
-
-
-On once occasion, because I had zipped training images on Windows, I needed the [P7 tool](https://anaconda.org/bioconda/p7zip) to unzip them on the Linux Google VM. You need to create a conda environment to get the right permissions -- difficult!
+Once, because I had zipped training images on Windows, I needed the [P7 tool](https://anaconda.org/bioconda/p7zip) to unzip them on the Linux Google VM. You need to create a conda environment to get the right permissions -- difficult!
 
 ```
 conda install -c bioconda p7zip
